@@ -1,4 +1,4 @@
-# Qstheory Research Bridge / 求是科研转译
+# Qstheory Research Bridge / 慢老师的求是科研转译
 
 **Qstheory Research Bridge** is a portable AI-agent skill that translates fresh Qiushi/Qstheory policy signals into researcher-readable scientific problems, NSFC/funding directions, SCI paper angles, and daily policy-research watch reports.
 

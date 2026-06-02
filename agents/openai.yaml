@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Qstheory Research Bridge"
+  short_description: "Translate Qiushi policy signals into research and funding opportunities."
+  default_prompt: "Use $qstheory-research-bridge to connect my research direction with recent Qiushi/Qstheory policy signals and produce Feynman-style research opportunities."
